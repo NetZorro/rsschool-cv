@@ -1,1 +1,1 @@
-"# rsschool-cv" 
+https://github.com/NetZorro/rsschool-cv/cv
