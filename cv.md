@@ -24,3 +24,10 @@ Hard skills: Programming, ASP.NET Core, Sharepoint, client-side web development,
 ## Activities
 
 Avid runner for fun and fitness.
+
+## Courses
+
+[Microservice Architecture](https://cdn.otus.ru/media/public/75/4f/754f7f_program_microservice_architecture.pdf)
+
+## English
+Pre
