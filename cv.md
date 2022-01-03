@@ -2,6 +2,14 @@
 
 ***
 
+# Contact Info:
+- Phone: +79377920153
+- E-mail: deniskodua@gamil.com
+- GitHub: NetZorro
+- Telegram Denis Kodua
+
+***
+
 # .Net Developer Resume
 
 Denis Kodua
