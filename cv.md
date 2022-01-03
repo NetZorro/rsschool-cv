@@ -1,3 +1,7 @@
+[RS School](https://github.com/NetZorro/rsschool-cv)
+
+***
+
 # .Net Developer Resume
 
 Denis Kodua
