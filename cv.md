@@ -1,0 +1,41 @@
+[RS School](https://github.com/NetZorro/rsschool-cv)
+
+***
+
+# Contact Info:
+- Phone: +79377920153
+- E-mail: deniskodua@gamil.com
+- GitHub: NetZorro
+- Telegram Denis Kodua
+
+***
+
+## Professional Summary
+
+Lightning-fast, exacting .NET developer with 8+ years of experience. Skilled in ASP.NET, Sharepoint and client-side web development. Seeking position at Epam. Worked on 10+ projects for SQL database design, Web services.
+
+## Education
+
+2003–2008 **[MPGU](http://mpgu.su/ob-mpgu/struktura/faculties/matematicheskiy-fakultet/)**
+
+Faculty mathematics and computer science
+
+Attend programming club.
+
+## Skills
+
+Soft skills: Time management, interpersonal skills, teamwork, communication
+Hard skills: Programming, ASP.NET Core, Sharepoint, client-side web development, SQL
+
+## Activities
+
+Avid runner for fun and fitness.
+
+## Courses
+
+- [Microservice Architecture](https://cdn.otus.ru/media/public/75/4f/754f7f_program_microservice_architecture.pdf)
+- [JS/FE Pre-School 2022](https://app.rs.school/course/schedule?course=js-fe-preschool)
+
+## English
+
+Pre-intermediate
