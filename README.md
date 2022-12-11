@@ -1,1 +1,1 @@
-https://netzorro.github.io/rsschool-cv/cv
+![rsschool-cv](https://netzorro.github.io/rsschool-cv/cv)
