@@ -1,1 +1,1 @@
-my first cv
+![netzee](https://github.com/NetZorro/rsschool-cv/blob/gh-pages/img/netzee.png)
