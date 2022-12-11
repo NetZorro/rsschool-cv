@@ -1,1 +1,1 @@
-https://NetZorro.github.io/rsschool-cv/c
+https://github.com/NetZorro/rsschool-cv/blob/gh-pages/cv.md
