@@ -1,7 +1,7 @@
 # Denis Kodua 
 ---
 ### Junior FrontEnd Developer
-![netzee](https://1000logos.net/wp-content/uploads/2021/10/Batman-Logo.png)
+![netzee](https://github.com/NetZorro/rsschool-cv/blob/gh-pages/img/netzee.jpg)
 
 ---
 
@@ -13,6 +13,7 @@
 
 **Briefly About Myself:**
 These are my first steps into frontend development world.
+I'm a bit familiar with javascript and html and how the internet works.
 I really want to become a good programmer and create useful and high-quality products.
 
 ---
@@ -21,4 +22,15 @@ HTML, CSS, JavaScript
 Git, GitHub
 VS Code, 
 
+
+**Code example:**
+```
+function multiply(a, b){
+  a * b
+}
+```
+---
+**Languages:**
+Russian - Native
+English - Pre-intermediate
 
