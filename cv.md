@@ -31,6 +31,6 @@ function multiply(a, b){
 ```
 ---
 **Languages:**
-Russian - Native
-English - Pre-intermediate
+* Russian - Native
+* English - Pre-intermediate
 
